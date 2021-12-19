@@ -1,4 +1,5 @@
-h1 **AnSiSh**
+ **AnSiSh**
+=====================
 The AnSiSh (Antiplagiat Simple Shingles) is focused on comparing two documents. 
 It is based on the basic shingle algorithm, without using a random sample of 84 possible ones. 
 All received checksums are compared. The program only works with .txt, .docx and .pdf files.
