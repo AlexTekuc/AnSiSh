@@ -7,8 +7,11 @@ All received checksums are compared. The program only works with .txt, .docx and
 To start the program, you need to install the following libraries.
 
 pip install pymupdf
+
 pip install fitz
+
 pip install PySimpleGUI
+
 pip install textract
 
 This program also has the ability to check the replacement of Russian characters in English.
